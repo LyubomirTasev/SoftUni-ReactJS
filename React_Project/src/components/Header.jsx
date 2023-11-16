@@ -1,6 +1,6 @@
 export default function Header() {
     return (
-    <div id="intro" className="parallax-window" data-parallax="scroll" data-image-src="img/antique-cafe-bg-01.jpg">
+    <div id="intro" className="parallax-window" data-parallax="scroll" data-image-src="img/open-view.jpg">
   <nav id="tm-nav" className="fixed w-full">
       <div className="tm-container mx-auto px-2 md:py-6 text-right">
           <button className="md:hidden py-2 px-2" id="menu-toggle"><i className="fas fa-2x fa-bars tm-text-gold"></i></button>
@@ -15,8 +15,8 @@ export default function Header() {
   <div className="container mx-auto px-2 tm-intro-width">
       <div className="sm:pb-60 sm:pt-48 py-20">
           <div className="bg-black bg-opacity-70 p-12 mb-5 text-center">
-              <h1 className="text-white text-5xl tm-logo-font mb-5">Antique Cafe</h1>
-              <p className="tm-text-gold tm-text-2xl">your daily energy booster</p>
+              <h1 className="text-white text-5xl tm-logo-font mb-5">Кафе-клуб "ЧасовникЪ" </h1>
+              <p className="tm-text-gold tm-text-2xl">мястото, където старинният стил е</p>
           </div>    
           <div className="bg-black bg-opacity-70 p-10 mb-5">
               <p className="text-white leading-8 text-sm font-light">
