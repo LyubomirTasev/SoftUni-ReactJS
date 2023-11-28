@@ -1,0 +1,15 @@
+.app button {
+    margin-left: 1em;
+}
+
+.listItem { /*camelCase, cause that's the way*/
+    background-color: magenta;
+    margin-left: 10px;
+    display: inline;
+    padding: 10px;
+    border-radius: 0.5em;
+}
+.listItem:hover {
+    cursor: pointer;
+    background-color: white;
+}
