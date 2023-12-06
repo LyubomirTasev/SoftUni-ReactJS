@@ -1,27 +1,29 @@
 import { useState } from "react";
 
 export default function ControlledForm() {
-    const [formValue, setFormValue] = useState({
-        username: '',
-        password: '',
-        age: ''
-    });
+    const [usernameValue, setUsernameValue] = useState('');
+    const [passwordValue, setPasswordValue] = useState('');
+    const [ageValue, setAgeValue] = useState('');
 
-    const changeHandler = (e) => {
-        setFormValue(state => ({
-            ...state,
-            [e.target.name]: e.target.value
-        }))
+    const usernameChangeHandler = (e) => {
+        setUsernameValue(e.target.value); // input's value
     }
-
     const resetFormHandler = (e) => {
       setUsernameValue('');
       setPasswordValue('');
       setAgeValue('');
     }
 
+    const passwordChangeHandler = (e) => {
+      setPasswordValue(e.target.value);
+    }
+    const ageChangeHandler = (e) => {
+      setAgeValue(e.target.value);
+    }
     const submitHandler = (e) => {
-      console.log(formValue);
+      console.log(usernameValue);
+      console.log(passwordValue);
+      console.log(ageValue);
       resetFormHandler();
     }
 
@@ -36,8 +38,8 @@ export default function ControlledForm() {
             type="text" 
             name="username" 
             id="username"
-            value={formValue.username} // подаваме стойност
-            onChange={changeHandler} /> {/* казваме кога да се изпълнят промените*/}
+            value={usernameValue} // подаваме стойност
+            onChange={usernameChangeHandler} /> {/* казваме кога да се изпълнят промените*/}
         </div>
         <div>
           <label htmlFor="password">Password</label>
@@ -45,8 +47,8 @@ export default function ControlledForm() {
             type="password" 
             name="password" 
             id="password"
-            value={formValue.password}
-            onChange={changeHandler} />
+            value={passwordValue}
+            onChange={passwordChangeHandler} />
         </div>
         <div>
           <label htmlFor="age">Age</label>
@@ -54,8 +56,8 @@ export default function ControlledForm() {
             type="number" 
             name="age" 
             id="age"
-            value={formValue.age}
-            onChange={changeHandler} />
+            value={ageValue}
+            onChange={ageChangeHandler} />
         </div>
         <div>
           {/* <input type="submit" value="Register" /> */}
