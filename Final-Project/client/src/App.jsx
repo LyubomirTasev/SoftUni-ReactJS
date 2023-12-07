@@ -10,6 +10,7 @@ import men_banner from './Assets/banner_mens.png'
 import women_banner from './Assets/banner_women.png'
 import kid_banner from './Assets/banner_kids.png'
 
+
 function App() {
   return (
     <div>
@@ -25,6 +26,8 @@ function App() {
         </Route>
         <Route path='/cart' element={<Cart/>}/>
         <Route path='/login' element={<LoginForm />}/>
+        
+        {/* <Route path='/login' element={<Login />} /> */}
       </Routes>
       <Footer/>
       </BrowserRouter>
