@@ -1,25 +1,53 @@
-import { useRef, useState, useEffect } from 'react'
+// import { useContext } from "react";
+// import useForm from "./UseForm";
+// import AuthContext from "../Context/authContext";
 
-export default function Login() {
-    const userRef = useRef();
-    const errorRef = useRef();
+// const LoginFormKeys = {
+//   Email: 'email',
+//   Password: 'password',
+// }
 
-    const [user, setUser] = useState('');
-    const [password, setPassword] = useState('');
-    const [errorMsg, setErrorMsg] = useState('');
-    const [success, setSuccess] = useState(false);
+// export default function Login() { 
+//   const {loginSubmitHandler} = useContext(AuthContext);
 
-    useEffect(() => {
-        userRef.current.focus()
-    }, []);
+//   const {values, onChange, onSubmit} = useForm(loginSubmitHandler, {
+//     [LoginFormKeys.Email]: '',
+//     [LoginFormKeys.Password]: ''
+//   });
 
-    useEffect(() => {
-        setErrorMsg('');
-    }, [user, password]);
+//   return (
+//     <div>
+//       <h1>Welcome back</h1>
 
-  return (
-    <div>
-        
-    </div>
-  )
-}
+//       <form onSubmit={onSubmit}>
+//         <label htmlFor="email">Email Address</label>
+//         <input
+//           type="email"
+//           id="email"
+//           name={LoginFormKeys.Email}
+//           onChange={onChange}
+//           value={values[LoginFormKeys.Email]}
+//         />
+
+//         <label htmlFor="password">Password</label>
+//         <input
+//           type="password"
+//           id="password"
+//           name={LoginFormKeys.Password}
+//           onChange={onChange}
+//           value={values[LoginFormKeys.Password]}
+//         />
+//         <button>Sign In</button>
+//       </form>
+
+//       <p className="sign-up">
+//         Need an account? <br />
+//         <span>
+//           <a href="#">
+//             Register
+//           </a>
+//         </span>
+//       </p>
+//     </div>
+//   );
+// }
