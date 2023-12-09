@@ -13,6 +13,10 @@ const Register = () => {
 
   const navigate = useNavigate();
 
+  function handleRegister() {
+    navigate('/')
+  }
+
   function handleClick() {
     navigate('/login')
   }
@@ -65,11 +69,11 @@ const Register = () => {
                 JSON.stringify({ user, pwd }),
                 {
                     headers: { 'Content-Type': 'application/json' },
-                    withCredentials: true
+                    withCredentials: false
                 }
             );
-            // TODO: remove console.logs before deployment
-            console.log(JSON.stringify(response?.data));
+
+            // console.log(JSON.stringify(response?.data));
             //console.log(JSON.stringify(response))
             setSuccess(true);
             //clear state and controlled inputs
@@ -173,7 +177,8 @@ const Register = () => {
                             Must match the first password input field.
                         </p>
 
-                        <button disabled={!validName || !validPwd || !validMatch ? true : false}>Sign Up</button>
+                        {/* <button {...!validName || !validPwd || !validMatch ? true : false}>Sign Up</button> */}
+                        <button onClick={handleRegister}>Sign Up</button>
                     </form>
                     <p>
                         Already registered?<br />

@@ -26,7 +26,7 @@ import './LoginForm.css';
 
 import axios from '../services/axios';
 import { useNavigate } from 'react-router-dom';
-const LOGIN_URL = '/user';
+const LOGIN_URL = '/login';
 
 const LoginForm = () => {
     const navigate = useNavigate();
@@ -59,8 +59,11 @@ const LoginForm = () => {
             const response = await axios.post(LOGIN_URL,
                 JSON.stringify({ user, pwd }),
                 {
-                    headers: { 'Content-Type': 'application/json' },
-                    withCredentials: true
+                    headers: { 'Content-Type': 'application/json' },                    
+                    // headers: {'Access-Control-Allow-Origin': '*'},
+                    // headers: {'Access-Control-Allow-Methods': 'POST, GET, OPTIONS, PUT, DELETE'},
+                    // headers: {'Access-Control-Allow-Headers': 'Content-Type, X-Auth-Token, Origin, Authorization'},
+                    withCredentials: false
                 }
             );
             console.log(JSON.stringify(response?.data));
