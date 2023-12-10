@@ -128,7 +128,7 @@ const LoginForm = () => {
                         Need an Account?<br />
                         <span className="line">
                             {/*put router link here*/}
-                            <button onClick={handleClick}>Sign Up</button>
+                            <button type='button' onClick={handleClick}>Sign Up</button>
                         </span>
                     </p>
                 </section>

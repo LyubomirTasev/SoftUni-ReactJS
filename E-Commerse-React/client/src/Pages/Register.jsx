@@ -178,13 +178,13 @@ const Register = () => {
                         </p>
 
                         {/* <button {...!validName || !validPwd || !validMatch ? true : false}>Sign Up</button> */}
-                        <button onClick={handleRegister}>Sign Up</button>
+                        <button type="button" onClick={handleRegister}>Sign Up</button>
                     </form>
                     <p>
                         Already registered?<br />
                         <span className="line">
                             {/*put router link here*/}
-                            <button onClick={handleClick}>Sign In</button>
+                            <button type="button" onClick={handleClick}>Sign In</button>
                         </span>
                     </p>
                 </section>
