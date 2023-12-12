@@ -29,7 +29,7 @@ export default function ControlledForm() {
     <>
       <h1>Controlled Form</h1>
 
-      <form > 
+      <form ref={formRef}> 
         <div>
           <label htmlFor="username">Username</label>
           <input 
