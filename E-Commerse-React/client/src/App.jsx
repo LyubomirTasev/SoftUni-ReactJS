@@ -10,20 +10,23 @@ import women_banner from "./Assets/banner_women.png";
 import kid_banner from "./Assets/banner_kids.png";
 import LoginForm from "./Pages/LoginForm";
 import Register from "./Pages/Register";
+import { AuthProvider } from "./Context/authContext";
+import Path from "./paths";
+import Logout from "./Pages/Logout";
 
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <AuthProvider>
         <Navbar />
         <Routes>
           <Route path="/" element={<Shop />} />
           <Route
-            path="/mens"
+            path="/men"
             element={<ShopCategory banner={men_banner} category="men" />}
           />
           <Route
-            path="/womens"
+            path="/women"
             element={<ShopCategory banner={women_banner} category="women" />}
           />
           <Route
@@ -36,11 +39,12 @@ function App() {
           <Route path="/cart" element={<Cart />} />
           <Route path="/login" element={<LoginForm />} />
           <Route path="/register" element={<Register />} />
+          <Route path={Path.Logout} element={<Logout />} />
 
           {/* <Route path='/login' element={<Login />} /> */}
         </Routes>
         <Footer />
-      </BrowserRouter>
+      </AuthProvider>
     </div>
   );
 }
