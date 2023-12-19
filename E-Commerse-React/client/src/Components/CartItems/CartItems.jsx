@@ -8,13 +8,12 @@ const CartItems = () => {
   const { getTotalCartAmount, all_product, cartItems, removeFromCart } =
     useContext(ShopContext);
   const navigate = useNavigate();
-  const isSuccess = false;
 
   function handleClick() {
-    if (isSuccess) {
-      navigate("/login");
+    if (cartItems == 0) {
+      navigate("/empty-cart");
     } else {
-      navigate("/success")
+      navigate("/success");
     }
   }
   return (

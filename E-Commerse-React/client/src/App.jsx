@@ -14,6 +14,7 @@ import { AuthProvider } from "./Context/authContext";
 import Path from "./paths";
 import Logout from "./Pages/Logout";
 import SuccessPage from "./Components/SuccessPage/SuccessPage";
+import EmptyCart from "./Components/EmptyCart/EmptyCart";
 
 function App() {
   return (
@@ -42,6 +43,7 @@ function App() {
           <Route path="/register" element={<Register />} />
           <Route path={Path.Logout} element={<Logout />} />
           <Route path="/success" element={<SuccessPage />} />
+          <Route path="/empty-cart" element={<EmptyCart />} />
 
           {/* <Route path='/login' element={<Login />} /> */}
         </Routes>

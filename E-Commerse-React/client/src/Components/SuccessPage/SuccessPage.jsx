@@ -13,7 +13,7 @@ export default function SuccessPage() {
 
   return (
     <div className='wrapper'>
-      <h1>Thank You for the order {generateRandom10DigitNumber()}!</h1>
+      <h1>Thank You for Your order {generateRandom10DigitNumber()}!</h1>
       <p>Please check the confirmation we sent to your email.</p>
     </div>
   );
