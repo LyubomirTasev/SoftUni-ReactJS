@@ -1,0 +1,274 @@
+{
+    "5a6d1d3f-31a6-4e15-b673-f1c596bb7be4": {
+        "name": "Lauren Ralph Lauren RUFFLE TRIM CRINKLE GEORGETTE BLOUSE - Button-down blouse - fuchsia berry",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/46cc2aa6ce3243d8b75e49fe923fbbb7/6039810fdcfd41e08712d67ec92a9fda.jpg?imwidth=1800",
+        "price": "85.0",
+        "old_price": "120.5",
+        "_id": "5a6d1d3f-31a6-4e15-b673-f1c596bb7be4"
+    },
+    "dc63565b-205b-4ad6-b907-137cd3adc1be": {
+        "name": "Lauren Ralph Lauren RUFFLE TRIM SATIN TIE NECK BLOUSE - Button-down blouse - dark terracotta",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4e7bf88b59fd4673af0be622a3ea47d1/b4bf5c42082e4005b8598fa5b94b36a0.jpg?imwidth=1800",
+        "price": "120.0",
+        "old_price": "179.95",
+        "_id": "dc63565b-205b-4ad6-b907-137cd3adc1be"
+    },
+    "e10bc0c7-90ca-4684-8abe-f8b07227202b": {
+        "name": "Massimo Dutti Blouse - dark brown",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/7d0eee8394cd44668474e13d9193c3c4/74bba7237cf74b84b18d8bcba2fb23fc.jpg?imwidth=1800",
+        "price": "49.95",
+        "old_price": "69.95",
+        "_id": "e10bc0c7-90ca-4684-8abe-f8b07227202b"
+    },
+    "85834d97-ba30-404a-8ec2-141bd8b3b5b4": {
+        "name": "Massimo Dutti CO-ORD WITH SEAM DETAIL - Button-down blouse - dark red",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/82012237917245ae96c0178164071a19/391e55fa5348433f97b6fcfaa2c9a233.jpg?imwidth=1800",
+        "price": "69.95",
+        "old_price": "75.95",
+        "_id": "85834d97-ba30-404a-8ec2-141bd8b3b5b4"
+    },
+    "d1537c90-5d63-43c4-b7fd-6121af5393be": {
+        "name": "Massimo Dutti Print T-shirt - beige",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/c827b2e28dc44080877f1c1549ee540b/7bf23387d2394ee8ac4074cc23bcbd46.jpg?imwidth=1800",
+        "price": "79.95",
+        "old_price": "89.95",
+        "_id": "d1537c90-5d63-43c4-b7fd-6121af5393be"
+    },
+    "9ad340b7-2b38-40a3-9d43-26205fc76e8e": {
+        "name": "Massimo Dutti Maxi skirt - stone",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/808220e32baf447fb53b4eb6169c4849/0c7ed74d0c7b49e5afbc9591f372ee72.jpg?imwidth=1800",
+        "price": "79.95",
+        "old_price": "89.95",
+        "_id": "9ad340b7-2b38-40a3-9d43-26205fc76e8e"
+    },
+    "1bf5af9a-26f6-4367-ba83-eec10045f0d8": {
+        "name": "Lauren Ralph Lauren Petite CLASSIC FIT PAISLEY CREPE SHIRT - Button-down blouse - fuchsia multi",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2b6237e22ba3404fafae32ad5f18a27a/ccba55baf8024822bee654250237bf20.jpg?imwidth=1800",
+        "price": "129.95",
+        "old_price": "159.95",
+        "_id": "1bf5af9a-26f6-4367-ba83-eec10045f0d8"
+    },
+    "7a2e0fb8-2c7e-41ac-bba7-ea6f31115644": {
+        "name": "Lauren Ralph Lauren Petite COURTENAY LONG SLEEVE BUTTON FRONT SHIRT - Button-down blouse - burnished tan",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/13d560ef6c73402686bf9206d26fa528/492a605cb6cf438f9ceb6d5617499b35.jpg?imwidth=1800",
+        "price": "99.95",
+        "old_price": "109.95",
+        "_id": "7a2e0fb8-2c7e-41ac-bba7-ea6f31115644"
+    },
+    "b0ecabf0-d174-4b1e-84d1-51ae1012b202": {
+        "name": "Lauren Ralph Lauren Petite SURPLICE JERSEY TOP - Long sleeved top - mascarpone cream",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4e7de9092a0d4895b03007f8a88e4def/4238081a5965439cbb4dc784bedb3625.jpg?imwidth=1800",
+        "price": "49.95",
+        "old_price": "75.95",
+        "_id": "b0ecabf0-d174-4b1e-84d1-51ae1012b202"
+    },
+    "54782349-2117-4ae9-bc44-857712a23eaa": {
+        "name": "Lauren Ralph Lauren JUDY MID SLEEVE - Print T-shirt",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/fb7d3dd8924d4dc085eff57bc72cf8d6/2f3830685a1146439dbd9d31c326f26b.jpg?imwidth=1800",
+        "price": "52.45",
+        "old_price": "75.95",
+        "_id": "54782349-2117-4ae9-bc44-857712a23eaa"
+    },
+    "4a462d34-3b5b-40ea-a09e-7dce26eb0c96": {
+        "name": "Lauren Ralph Lauren FLORAL STRETCH COTTON BOATNECK T-SHIRT - Print T-shirt",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9feaee478582452494a2e59b2ac456ed/e395a648f893440c8e3c49fda69eb194.jpg?imwidth=1800",
+        "price": "69.95",
+        "old_price": "75.95",
+        "_id": "4a462d34-3b5b-40ea-a09e-7dce26eb0c96"
+    },
+    "69cb460d-791a-44d5-b826-e21abbc909e5": {
+        "name": "Lauren Ralph Lauren COTTON BOATNECK TOP - Basic T-shirt - birch tan",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/b89e229dfc8d4fc18fe6dd85392ee8f9/fbac8a78d01b44fcb736b6fa12913de5.jpg?imwidth=1800",
+        "price": "59.95",
+        "old_price": "65.95",
+        "_id": "69cb460d-791a-44d5-b826-e21abbc909e5"
+    },
+    "aed8ba73-ec20-44ab-84ba-ff7a1e444d1f": {
+        "name": "Lauren Ralph Lauren CABLE KNIT COTTON CARDIGAN - Cardigan - navy",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e9668697b1f4475ba37eb0ff2d661fcf/3343d6d222b84f738a1586d76eb9396f.jpg?imwidth=1800",
+        "price": "139.95",
+        "old_price": "159.95",
+        "_id": "aed8ba73-ec20-44ab-84ba-ff7a1e444d1f"
+    },
+    "362e2b2f-e48b-4dc0-9f94-993f63d5033b": {
+        "name": "Lauren Ralph Lauren QUILTED FUNNELNECK PUFFER COAT - Light jacket - ardk navy",
+        "category": "women",
+        "image": "https://img01.ztat.net/article/spp-media-p1/cd24af955c9d45aeba0158bc6843432a/fe88aeede9524a5c8a4b408d11793803.jpg?imwidth=1800",
+        "price": "169.95",
+        "old_price": "209.95",
+        "_id": "362e2b2f-e48b-4dc0-9f94-993f63d5033b"
+    },
+    "b8004cbd-697b-4cab-adbc-da6403b022c0": {
+        "name": "Karl Kani SMALLRETRO - Print T-shirt - dusty blue",
+        "category": "men",
+        "image": "https://img01.ztat.net/article/spp-media-p1/e9e5a516ba884f5a8081f9796d8f87c2/5bc0ba94ad5f4642903a95d5e4bd68f8.jpg?imwidth=1800",
+        "price": "24.95",
+        "old_price": "39.95",
+        "_id": "b8004cbd-697b-4cab-adbc-da6403b022c0"
+    },
+    "20d9ce27-ea43-41b6-9db1-216fb9bd0e63": {
+        "name": "Karl Kani SIGNATURE LOGO PINSTRIPE TEE - Print T-shirt - black",
+        "category": "men",
+        "image": "https://img01.ztat.net/article/spp-media-p1/ac86257001264a98aaed7397b1a6effe/c05821e6dd5240f6bb125302dd19a080.jpg?imwidth=1800",
+        "price": "27.99",
+        "old_price": "39.95",
+        "_id": "20d9ce27-ea43-41b6-9db1-216fb9bd0e63"
+    },
+    "920b4819-8c54-4b94-a4e7-8c6a8d364460": {
+        "name": "Karl Kani LOGO - Print T-shirt - black",
+        "category": "men",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4bc8f3041bd844819e49e730871d2d8f/97d6bdaf35074b98a1796250b6c2e7fb.jpg?imwidth=1800",
+        "price": "35.99",
+        "old_price": "39.95",
+        "_id": "920b4819-8c54-4b94-a4e7-8c6a8d364460"
+    },
+    "a77a819c-07da-4b39-98a2-c44be4649443": {
+        "name": "U.S. Polo Assn. BRAYDEN - Hoodie - dark sapphire",
+        "category": "men",
+        "image": "https://img01.ztat.net/article/spp-media-p1/24ddc954788848a7bc50d0102c49da3c/c3cef49fd23d41b5843d21fac1ef3149.jpg?imwidth=1800",
+        "price": "49.99",
+        "old_price": "69.95",
+        "_id": "a77a819c-07da-4b39-98a2-c44be4649443"
+    },
+    "e176fbf5-bf97-4698-8bd8-9f7463248eb7": {
+        "name": "U.S. Polo Assn. ALFRED - Polo shirt - dark sapphire",
+        "category": "men",
+        "image": "https://img01.ztat.net/article/spp-media-p1/638f50af382c4d3b92ca9e37bce52441/77d9251b20344653a464c9f10b37d187.jpg?imwidth=1800",
+        "price": "49.99",
+        "old_price": "69.95",
+        "_id": "e176fbf5-bf97-4698-8bd8-9f7463248eb7"
+    },
+    "bc39b96c-3b6c-435c-96df-f33fb7a2b83a": {
+        "name": "Lacoste Polo shirt - green",
+        "category": "men",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2e0c5ab8cae53838a1f32d2b43b51571/52bcab41c5184c24ba430498cb7ceb85.jpg?imwidth=1800",
+        "price": "89.95",
+        "old_price": "109.95",
+        "_id": "bc39b96c-3b6c-435c-96df-f33fb7a2b83a"
+    },
+    "33c830e2-ee3b-46f8-906c-0aa1782e9fa1": {
+        "name": "Mango Light jacket - dark navy",
+        "category": "men",
+        "image": "https://img01.ztat.net/article/spp-media-p1/73fc3355072240db9038d89678681ee8/bd5e00add00e4c86ae5558d3f73c86c8.jpg?imwidth=1800",
+        "price": "29.99",
+        "old_price": "39.99",
+        "_id": "33c830e2-ee3b-46f8-906c-0aa1782e9fa1"
+    },
+    "c6f59588-9dab-4145-98e6-2a338c87c80e": {
+        "name": "Tommy Hilfiger CLUB HARRINGTON - Bomber Jacket - desert sky",
+        "category": "men",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3f5506016c72423b8ac47d06c02a4618/6ef91d51d4f94605bf67846373cf9891.jpg?imwidth=1800",
+        "price": "199.95",
+        "old_price": "249.95",
+        "_id": "c6f59588-9dab-4145-98e6-2a338c87c80e"
+    },
+    "3f141819-4bb2-4cf6-b112-b4e31b77a07e": {
+        "name": "Gabbiano Outdoor jacket - navy",
+        "category": "men",
+        "image": "https://img01.ztat.net/article/spp-media-p1/afd557fd18af422790c63fc0cf51c1a6/27eb8968df9b4c68926e8e24a35e371f.jpg?imwidth=1800",
+        "price": "39.95",
+        "old_price": "54.95",
+        "_id": "3f141819-4bb2-4cf6-b112-b4e31b77a07e"
+    },
+    "6231ebf7-a700-48d8-adbd-16c325ca397b": {
+        "name": "Gabbiano ZIPPER - Zip-up sweatshirt - black coffee",
+        "category": "men",
+        "image": "https://img01.ztat.net/article/spp-media-p1/5229d564b45c4db2a684597c7a3be91e/6ac72d14669646ab869475d93a15be8b.jpg?imwidth=1800",
+        "price": "44.95",
+        "old_price": "54.95",
+        "_id": "6231ebf7-a700-48d8-adbd-16c325ca397b"
+    },
+    "5c0ed13c-620a-43a5-9504-6512edfaebc1": {
+        "name": "Jack & Jones Junior JORVESTERBRO TEE CREW NECK - Print T-shirt - moonbeam",
+        "category": "kid",
+        "image": "https://img01.ztat.net/article/spp-media-p1/3fcf1e4052c343f5aad2daa547caed94/ce744a00984a43c3889bbed0ec64c827.jpg?imwidth=1800",
+        "price": "12.95",
+        "old_price": "19.95",
+        "_id": "5c0ed13c-620a-43a5-9504-6512edfaebc1"
+    },
+    "e7e2f10a-8629-4ed7-ae1e-812ea76d9e27": {
+        "name": "Jack & Jones Junior Print T-shirt - buttercream",
+        "category": "kid",
+        "image": "https://img01.ztat.net/article/spp-media-p1/9f240965c88642a38db7be316b964aac/7a057bc2119d4f23a32567cffe8e1a66.jpg?imwidth=1800",
+        "price": "17.99",
+        "old_price": "24.99",
+        "_id": "e7e2f10a-8629-4ed7-ae1e-812ea76d9e27"
+    },
+    "bc719dda-fce5-4efa-b179-b5d63aba57e7": {
+        "name": "GAP MARVEL SPIDERMAN BOYS - Print T-shirt",
+        "category": "kid",
+        "image": "https://img01.ztat.net/article/spp-media-p1/348345d1f36c4ccca799fa513e4f017e/c890262e58f54e2792635303978e13e3.jpg?imwidth=1800&filter=packshot    ",
+        "price": "16.95",
+        "old_price": "24.99",
+        "_id": "bc719dda-fce5-4efa-b179-b5d63aba57e7"
+    },
+    "429c9988-35ab-4f28-8388-0ae2d9271a56": {
+        "name": "Kidzroom BACKPACK SPIDER-MAN TANGLED WEBS UNISEX - Rucksack - navy",
+        "category": "kid",
+        "image": "https://img01.ztat.net/article/spp-media-p1/809698b87ee64223a9b2025f77ea8347/1a7554edb5814275a320b3e121f4f3d6.jpg?imwidth=1800&filter=packshot",
+        "price": "17.95",
+        "old_price": "24.99",
+        "_id": "429c9988-35ab-4f28-8388-0ae2d9271a56"
+    },
+    "206eb9e5-7135-4226-a60f-e690bf9043e3": {
+        "name": "Kidzroom SONIC WILD THING UNISEX - School bag - black",
+        "category": "kid",
+        "image": "https://img01.ztat.net/article/spp-media-p1/62717421e883450d99adcb30f14e21ed/729602e13bcb4f4b8f0be9e94dcd10fa.jpg?imwidth=1800&filter=packshot",
+        "price": "17.95",
+        "old_price": "24.99",
+        "_id": "206eb9e5-7135-4226-a60f-e690bf9043e3"
+    },
+    "c9888bec-7519-4a2e-b1fa-0783ed84fc6f": {
+        "name": "Next SONIC SET - REGULAR FIT - Shorts - blue black",
+        "category": "kid",
+        "image": "https://img01.ztat.net/article/spp-media-p1/8214385ed3a643c891a9035c62ee5106/7daaaa8d35204ed6b601b89ec777fd50.jpg?imwidth=1800&filter=packshot",
+        "price": "29.95",
+        "old_price": "39.99",
+        "_id": "c9888bec-7519-4a2e-b1fa-0783ed84fc6f"
+    },
+    "27e26aa1-ed09-41b5-b6a2-529e4cb31043": {
+        "name": "Next T-SHIRT AND SHORTS LICENSE SET - Shorts - spider man red blue",
+        "category": "kid",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4eafe6c94be243a783a40d534aa3effc/0c58296d42cd44bdb0f0da39bb477693.jpg?imwidth=1800&filter=packshot",
+        "price": "29.95",
+        "old_price": "39.99",
+        "_id": "27e26aa1-ed09-41b5-b6a2-529e4cb31043"
+    },
+    "fe075ddd-22ea-499c-b5fd-37519165dd5f": {
+        "name": "Next TOM AND JERRY SET - REGULAR FIT - Shorts - tan brown",
+        "category": "kid",
+        "image": "https://img01.ztat.net/article/spp-media-p1/1d3f6bf8cfbb463da86db856641d68d2/8e930ca306f247b683e625e6d0dc3814.jpg?imwidth=1800&filter=packshot",
+        "price": "19.95",
+        "old_price": "39.99",
+        "_id": "fe075ddd-22ea-499c-b5fd-37519165dd5f"
+    },
+    "0641f955-f169-47d0-a5f7-fe62a6fc6ae9": {
+        "name": "Next COLOURBLOCK THROUGH REGULAR FIT - Fleece jacket - tan brown bear",
+        "category": "kid",
+        "image": "https://img01.ztat.net/article/spp-media-p1/4feb4d0c809142faa8d1de7893d9f844/0293d42e00c74cbfa4731b214814bbbe.jpg?imwidth=1800&filter=packshot",
+        "price": "19.95",
+        "old_price": "39.99",
+        "_id": "0641f955-f169-47d0-a5f7-fe62a6fc6ae9"
+    },
+    "81abea4d-7556-4d35-8c2e-9fe38e50cedd": {
+        "name": "Name it SPEKTRA UNISEX - Fleece jacket - dark sapphire",
+        "category": "kid",
+        "image": "https://img01.ztat.net/article/spp-media-p1/2a3510a903e54c8c8c90ca1a9eb52600/501927ca1d364de790cf1bb2f8bb45c7.jpg?imwidth=1800",
+        "price": "19.95",
+        "old_price": "39.99",
+        "_id": "81abea4d-7556-4d35-8c2e-9fe38e50cedd"
+    }
+}
