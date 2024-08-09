@@ -1,11 +1,11 @@
 import * as request from "./requester"
 
-const BASE_URL = 'http://localhost:3030/jsonstore/create-items';
+const BASE_URL = 'http://localhost:3030/jsonstore/items-to-display';
 
 export const getAll = async () => {
     const result = await request.get(BASE_URL);
 
-    const newItems = Object.values(result);
+    const items = Object.values(result);
 
-    return newItems;
+    return items;
 }

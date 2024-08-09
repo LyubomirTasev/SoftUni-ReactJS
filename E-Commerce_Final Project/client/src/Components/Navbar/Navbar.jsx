@@ -4,12 +4,12 @@ import './Navbar.css'
 import logo from '../../Assets/logo.png'
 import cart_icon from '../../Assets/cart_icon.png'
 import { Link } from 'react-router-dom'
-import { ShopContext } from '../../Context/ShopContext'
+// import { ShopContext } from '../../Context/ShopContext'
 
 const Navbar = () => {
 
-    const [menu,setMenu] = useState("shop");
-    const {getTotalCartItems}= useContext(ShopContext);
+    // const [menu,setMenu] = useState("shop");
+    // const {getTotalCartItems}= useContext(ShopContext);
 
   return (
     <div className='navbar'>
