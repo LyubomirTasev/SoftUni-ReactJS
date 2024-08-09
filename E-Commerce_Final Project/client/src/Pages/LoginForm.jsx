@@ -27,6 +27,8 @@ import styles from "./LoginForm.module.css";
 
 import { useNavigate } from "react-router-dom";
 import CreateItem from "./CreateItem";
+import { useForm } from "../Hooks/useForm";
+import { useLogin } from "../Hooks/useAuth";
 
 const LoginForm = () => {
   // const navigate = useNavigate();
@@ -85,6 +87,23 @@ const LoginForm = () => {
   //     }
   // }
 
+  const login = useLogin();
+
+  const navigate = useNavigate();
+
+  const {values, changeHandler, submitHandler} = useForm(
+    {email: '', password: ''}, 
+    async ({email, password}) => {
+      try {
+        await login(email, password)
+        navigate('/');
+      } catch(err) {
+        console.log(err.message);
+        
+      }
+    }
+  );
+
   return (
     <>
       {/* {success ? (
@@ -97,14 +116,15 @@ const LoginForm = () => {
                 </section>
             ) : ( */}
       <section className={styles['section-part']}>
-        <form className={styles['form-part']}>
+        <form className={styles['form-part']} onSubmit={submitHandler}>
           <h1 className={styles['h1-el']}>Sign In</h1>
-          <label className={styles['label-part']} htmlFor="username">Username:</label>
+          <label className={styles['label-part']} htmlFor="email">Email:</label>
           <input className={styles['input-part']}
-            type="text"
-            id="username"
-            autoComplete="off"
-            onChange={(e) => setUser(e.target.value)}
+            type="email"
+            id="email"
+            name="email"
+            value={values.email}
+            onChange={changeHandler}
             required
           />
 
@@ -112,7 +132,9 @@ const LoginForm = () => {
           <input className={styles['input-part']}
             type="password"
             id="password"
-            onChange={(e) => setPwd(e.target.value)}
+            name="password"
+            value={values.password}
+            onChange={changeHandler}
             required
           />
           <button className={styles['button-part']}>Sign In</button>
