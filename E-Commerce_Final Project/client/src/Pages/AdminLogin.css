@@ -20,7 +20,7 @@
     margin-bottom: 10px;
 }
 
-.admin-con input[type="text"], .admin-con input[type="password"] {
+.admin-con input[type="email"], .admin-con input[type="password"] {
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
@@ -35,4 +35,17 @@
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
+}
+.get-there{
+    background-color: gainsboro; /* Green */
+    border: none;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
 }

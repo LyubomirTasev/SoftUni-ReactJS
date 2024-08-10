@@ -4,12 +4,15 @@ export default function CreateItem() {
   const initialFormValues = {
     name: "",
     price: "",
+    image: "",
+    description: ""
   };
-  const formSubmitHandler = (values) => {
-    fetch('http://localhost:3030/jsonstore/create-these/new-items')
+  const createHandler = (values) => {
+    console.log(values);
+    
   };
 
-  const { values, changeHandler, submitHandler } = useForm(initialFormValues, formSubmitHandler );
+  const { values, changeHandler, submitHandler } = useForm(initialFormValues, createHandler );
 
   return (
     <>
@@ -20,25 +23,43 @@ export default function CreateItem() {
 
       <section>
         <form
-          style={{ width: "200px", margin: "auto" }}
+          style={{ width: "200px", margin: "auto", border: "3px solid #c9c9c9", padding: "2em" }}
           onSubmit={submitHandler}
         >
+          <label htmlFor="Item's name">Item's name</label>
           <input
             type="text"
             name="name"
             id="Item's name"
             value={values.name}
             onChange={changeHandler}
-            placeholder="Item's name"
           />
           <br />
+          <label htmlFor="Price">Price:</label>
           <input
             type="text"
             name="price"
             id="Price"
             value={values.price}
             onChange={changeHandler}
-            placeholder="price"
+          />
+          <br />
+          <label htmlFor="Image">Image:</label>
+          <input 
+          type="text"
+          name="image"
+          id="image" 
+          value={values.image}
+          onChange={changeHandler}
+          />
+          <br />
+          <label htmlFor="Description">Description:</label>
+          <input style={{width: '200px', height: '50px'}}
+          type="text"
+          name="description"
+          id="description" 
+          value={values.description}
+          onChange={changeHandler}
           />
           {/* <textarea name="Description" placeholder="Description"></textarea> */}
 

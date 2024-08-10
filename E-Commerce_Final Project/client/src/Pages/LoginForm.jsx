@@ -63,7 +63,7 @@ const LoginForm = () => {
         </form>
       </section>
       <Link to="/admin">
-        <button>Login as Administrator</button>
+        <button className={styles['admin-button']}>Login as Administrator</button>
       </Link>
     </>
   );
