@@ -11,10 +11,28 @@ import kid_banner from "./Assets/banner_kids.png";
 import LoginForm from "./Pages/LoginForm"
 import CreateItem from "./Pages/CreateItem";
 import AdminLogin from "./Pages/AdminLogin";
+import { useState } from "react";
+import { AuthContext } from "./Context/AuthContext";
+import Register from "./Pages/Register";
 
 
 function App() {
+  const [authState, setAuthState] = useState({});
+
+  const changeAuthState = (state) => {
+    setAuthState(state);
+  }
+
+  const contextData = {
+    userId: authState._id,
+    email: authState.email,
+    accessToken: authState.accessToken,
+    isAuthenticated: !!authState.email,
+    changeAuthState
+  };
+
   return (
+    <AuthContext.Provider value={contextData}>
     <div>
       <BrowserRouter>
         <Navbar />
@@ -37,6 +55,7 @@ function App() {
           </Route>
           <Route path="/cart" element={<Cart />} />
           <Route path="/login" element={<LoginForm />} />
+          <Route path="/register" element={<Register />} />
           <Route path="/admin" element={<AdminLogin />} />
           <Route path="/item/create" element={<CreateItem />} />
           {/* <Route path="/login" element={<LoginForm />} />
@@ -47,6 +66,7 @@ function App() {
         <Footer />
       </BrowserRouter>
     </div>
+    </AuthContext.Provider>
   );
 }
 
