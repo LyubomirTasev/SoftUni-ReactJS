@@ -12,27 +12,15 @@ import LoginForm from "./Pages/LoginForm"
 import CreateItem from "./Pages/CreateItem";
 import AdminLogin from "./Pages/AdminLogin";
 import { useState } from "react";
-import { AuthContext } from "./Context/AuthContext";
+import { AuthContext, AuthContextProvider } from "./Context/AuthContext";
 import Register from "./Pages/Register";
 
 
 function App() {
-  const [authState, setAuthState] = useState({});
-
-  const changeAuthState = (state) => {
-    setAuthState(state);
-  }
-
-  const contextData = {
-    userId: authState._id,
-    email: authState.email,
-    accessToken: authState.accessToken,
-    isAuthenticated: !!authState.email,
-    changeAuthState
-  };
+  
 
   return (
-    <AuthContext.Provider value={contextData}>
+    <AuthContextProvider>
     <div>
       <BrowserRouter>
         <Navbar />
@@ -66,7 +54,7 @@ function App() {
         <Footer />
       </BrowserRouter>
     </div>
-    </AuthContext.Provider>
+    </AuthContextProvider>
   );
 }
 
