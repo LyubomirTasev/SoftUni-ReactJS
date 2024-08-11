@@ -1,24 +1,24 @@
-import { useState } from "react";
+// import { useState } from "react";
 
-export default function usePersistedState(key, initialState) {
-    const [state, setState] = useState(() => {
-        const persistedAuth = localStorage.getItem(key);
+// export default function usePersistedState(key, initialState) {
+//     const [state, setState] = useState(() => {
+//         const persistedAuth = localStorage.getItem(key);
 
-        if(!persistedAuth) {
-            return typeof initialState === 'function'
-            ? initialState()
-            :initialState;
-        }
+//         if(!persistedAuth) {
+//             return typeof initialState === 'function'
+//             ? initialState()
+//             :initialState;
+//         }
 
-        const authData = JSON.parse(persistedAuth);
-        return authData;
-    });
+//         const authData = JSON.parse(persistedAuth);
+//         return authData;
+//     });
 
-    const updateState = (value) => {
-        localStorage.setItem(key, JSON.stringify(value));
+//     const updateState = (value) => {
+//         localStorage.setItem(key, JSON.stringify(value));
 
-        setState(value);
-    }
+//         setState(value);
+//     }
 
-    return [state, updateState];
-}
+//     return [state, updateState];
+// }

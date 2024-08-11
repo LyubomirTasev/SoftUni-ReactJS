@@ -14,6 +14,8 @@ import AdminLogin from "./Pages/AdminLogin";
 import { useState } from "react";
 import { AuthContext, AuthContextProvider } from "./Context/AuthContext";
 import Register from "./Pages/Register";
+import Logout from "./Pages/Logout";
+import OrderPage from "./Components/OrderPage";
 
 
 function App() {
@@ -46,6 +48,8 @@ function App() {
           <Route path="/register" element={<Register />} />
           <Route path="/admin" element={<AdminLogin />} />
           <Route path="/item/create" element={<CreateItem />} />
+          <Route path="/logout" element={<Logout />} />
+          <Route path="/order" element={<OrderPage />} />
           {/* <Route path="/login" element={<LoginForm />} />
           {/* <Route path="/register" element={<Register />} /> */}
 
