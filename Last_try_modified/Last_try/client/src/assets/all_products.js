@@ -1,0 +1,52 @@
+let all_products = [
+        {
+            name: "Lauren Ralph Lauren RUFFLE TRIM CRINKLE GEORGETTE BLOUSE - Button-down blouse - fuchsia berry",
+            category: "women",
+            image: "https://img01.ztat.net/article/spp-media-p1/46cc2aa6ce3243d8b75e49fe923fbbb7/6039810fdcfd41e08712d67ec92a9fda.jpg?imwidth=1800",
+            price: "85 EUR",
+            description: "Neckline: Cowl neck; Pattern: Floral; Details: Adjustable straps, slip Article number: A0Q21C0ZQ-Q11",
+            _id: "9cdc1ea4-6961-4af3-897f-6c3d42ae2f03"
+        },
+        {
+            name: "Lauren Ralph Lauren RUFFLE TRIM SATIN TIE NECK BLOUSE - Button-down blouse - dark terracotta",
+            category: "women",
+            image: "https://img01.ztat.net/article/spp-media-p1/4e7bf88b59fd4673af0be622a3ea47d1/b4bf5c42082e4005b8598fa5b94b36a0.jpg?imwidth=1800",
+            price: "120.0",
+            description: "Neckline: Cowl neck; Pattern: Floral; Details: Adjustable straps, slip Article number: A0Q21C0ZQ-Q11",
+            _id: "c15e4cda-3c89-4027-9832-c67bb69251a4"
+        },
+        {
+            name: "Tommy Hilfiger CLUB HARRINGTON - Bomber Jacket - desert sky",
+            category: "men",
+            image: "https://img01.ztat.net/article/spp-media-p1/3f5506016c72423b8ac47d06c02a4618/6ef91d51d4f94605bf67846373cf9891.jpg?imwidth=1800",
+            price: "199,95 EUR",
+            description: "Neckline: Cowl neck; Pattern: Floral; Details: Adjustable straps, slip Article number: A0Q21C0ZQ-Q11",
+            _id: "e7bbba35-5122-4754-9f90-384ba8bd63cb"
+        },
+        {
+            name: "Mango Light jacket - dark navy",
+            category: "men",
+            image: "https://img01.ztat.net/article/spp-media-p1/73fc3355072240db9038d89678681ee8/bd5e00add00e4c86ae5558d3f73c86c8.jpg?imwidth=1800",
+            price: "29,99 EUR",
+            description: "Neckline: Cowl neck; Pattern: Floral; Details: Adjustable straps, slip Article number: A0Q21C0ZQ-Q11",
+            _id: "1ddd7eab-6e36-4a92-a204-f86df395dc30"
+        },
+        {
+            name: "Kidzroom BACKPACK SPIDER-MAN TANGLED WEBS UNISEX - Rucksack - navy",
+            category: "kid",
+            image: "https://img01.ztat.net/article/spp-media-p1/809698b87ee64223a9b2025f77ea8347/1a7554edb5814275a320b3e121f4f3d6.jpg?imwidth=1800&filter=packshot",
+            price: "17,95 EUR",
+            description: "Neckline: Cowl neck; Pattern: Floral; Details: Adjustable straps, slip Article number: A0Q21C0ZQ-Q11",
+            _id: "3db73457-f4f1-4414-acc8-75f0e86124c6"
+        },
+        {
+            name: "Massimo Dutti Print T-shirt - beige",
+            category: "women",
+            image: "https://img01.ztat.net/article/spp-media-p1/c827b2e28dc44080877f1c1549ee540b/7bf23387d2394ee8ac4074cc23bcbd46.jpg?imwidth=1800",
+            price: "79,95 EUR",
+            description: "Neckline: Cowl neck; Pattern: Floral; Details: Adjustable straps, slip Article number: A0Q21C0ZQ-Q11",
+            _id: "dad04a03-0f1f-4ad2-b57a-0b617e32c07b"
+        }
+];
+
+export default all_products;

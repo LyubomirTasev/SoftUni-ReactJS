@@ -1,0 +1,11 @@
+How to launch the app:
+
+ - In Terminal - client:
+ 1. cd client
+ 2. npm run dev
+ 3. open http://localhost:5173/
+
+ - In Terminal - server:
+ 1. cd server
+ 2. node ./server.js
+ 3. open http://localhost:3030/admin
