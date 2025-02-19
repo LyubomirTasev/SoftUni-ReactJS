@@ -1,0 +1,30 @@
+{
+  "prod1": {
+    "id":1,
+    "name":"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964813/product_1_r8pbjo.png",
+    "new_price":50.00,
+    "old_price":80.50
+  },
+  "prod2": {
+    "id":2,
+    "name":"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964813/product_2_kfh19b.png",
+    "new_price":85.00,
+    "old_price":120.50
+  },
+  "prod3": {
+    "id":3,
+    "name":"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964815/product_3_fdo4nb.png",
+    "new_price":60.00,
+    "old_price":100.50
+  },
+  "prod4": {
+    "id":4,
+    "name":"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964815/product_4_bmt30e.png",
+    "new_price":100.00,
+    "old_price":150.00
+  }
+}

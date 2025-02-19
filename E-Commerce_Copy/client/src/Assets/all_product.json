@@ -1,0 +1,290 @@
+{
+    "product1": {
+    "id": 1,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964813/product_1_r8pbjo.png",
+    "new_price": 50.0,
+    "old_price": 80.5
+  },
+  "product2": {
+    "id": 2,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964813/product_2_kfh19b.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product3": {
+    "id": 3,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964815/product_3_fdo4nb.png",
+    "new_price": 60.0,
+    "old_price": 100.5
+  },
+  "product4": {
+    "id": 4,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964815/product_4_bmt30e.png",
+    "new_price": 100.0,
+    "old_price": 150.0
+  },
+  "product5": {
+    "id": 5,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_5_lkebh9.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product6": {
+    "id": 6,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964815/product_6_mwyha8.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product7": {
+    "id": 7,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964815/product_7_izrvio.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product8": {
+    "id": 8,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_8_x2k9kx.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product9": {
+    "id": 9,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_9_kk8zht.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product10": {
+    "id": 10,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_10_bpum6k.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product11": {
+    "id": 11,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_11_nhxsir.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product12": {
+    "id": 12,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "category": "women",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_12_jpy8uk.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product13": {
+    "id": 13,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_13_xetvvm.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product14": {
+    "id": 14,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_14_hqessi.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product15": {
+    "id": 15,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_15_gnrny0.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product16": {
+    "id": 16,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964817/product_16_myoc3h.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product17": {
+    "id": 17,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964819/product_17_bkrt7w.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product18": {
+    "id": 18,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964819/product_18_drayfm.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product19": {
+    "id": 19,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964819/product_19_o3env2.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product20": {
+    "id": 20,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964819/product_20_ask4hl.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product21": {
+    "id": 21,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964819/product_21_qkbnff.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product22": {
+    "id": 22,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964819/product_22_jxwerm.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product23": {
+    "id": 23,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964819/product_23_f9efax.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product24": {
+    "id": 24,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "category": "men",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964819/product_24_qzxl0q.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product25": {
+    "id": 25,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964819/product_25_hd2dkm.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product26": {
+    "id": 26,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964820/product_26_sefovm.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product27": {
+    "id": 27,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964820/product_27_feiasx.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product28": {
+    "id": 28,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964820/product_28_k1brij.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product29": {
+    "id": 29,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964820/product_29_yf9hn3.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product30": {
+    "id": 30,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964821/product_30_taysxa.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product31": {
+    "id": 31,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964822/product_31_zuleqx.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product32": {
+    "id": 32,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964822/product_32_mrq1zh.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product33": {
+    "id": 33,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964822/product_33_e0ezzi.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product34": {
+    "id": 34,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964822/product_34_cfmea3.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product35": {
+    "id": 35,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964822/product_35_s13fxo.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "product36": {
+    "id": 36,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "category": "kid",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964822/product_36_yv5ln5.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  }
+}

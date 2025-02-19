@@ -1,0 +1,58 @@
+{
+  "pr1": {
+    "id": 12,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_12_jpy8uk.png",
+    "new_price": 50.0,
+    "old_price": 80.5
+  },
+  "pr2": {
+    "id": 35,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964822/product_35_s13fxo.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "pr3": {
+    "id": 14,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_14_hqessi.png",
+    "new_price": 60.0,
+    "old_price": 100.5
+  },
+  "pr4": {
+    "id": 8,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_8_x2k9kx.png",
+    "new_price": 100.0,
+    "old_price": 150.0
+  },
+  "pr5": {
+    "id": 15,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964816/product_15_gnrny0.png",
+    "new_price": 50.0,
+    "old_price": 80.5
+  },
+  "pr6": {
+    "id": 2,
+    "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964813/product_2_kfh19b.png",
+    "new_price": 85.0,
+    "old_price": 120.5
+  },
+  "pr7": {
+    "id": 17,
+    "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964819/product_17_bkrt7w.png",
+    "new_price": 60.0,
+    "old_price": 100.5
+  },
+  "pr8": {
+    "id": 28,
+    "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+    "imageUrl": "https://res.cloudinary.com/dczue3r1c/image/upload/v1739964820/product_28_k1brij.png",
+    "new_price": 100.0,
+    "old_price": 150.0
+  }
+}
