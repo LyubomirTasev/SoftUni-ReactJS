@@ -1,0 +1,19 @@
+{
+    "new-items": {
+        "L4221E0IS-K11": {
+            "_id": "L4221E0IS-K11",
+            "name": "Lauren Ralph Lauren CLASSIC FIT PRINT CREPE SHIRT - Button-down blouse",
+            "price": "159,00 €"
+        },
+        "NI111A1GV-Q11": {
+            "_id": "NI111A1GV-Q11",
+            "name": "Nike Sportswear AIR FORCE 1 07 PRM - Trainers",
+            "price": "129,95 €"
+        },
+        "MK151H12A-O11": {
+            "_id": "MK151H12A-O11",
+            "name": "MICHAEL Michael Kors JET SET CHARM CHAIN POUCHETTE - Handbag",
+            "price": "139,95 €"
+        }
+    }
+}
