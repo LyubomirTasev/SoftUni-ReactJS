@@ -33,7 +33,7 @@ export default function ShopContextProvider(props) {
         let totalAmount = 0;
         for (const item in cartItems) {
           if (cartItems[item] > 0) {
-            let itemInfo = Array.prototype.find.call(items, (product) => product.id === Number(item)); // doesn't work
+            //let itemInfo = Array.prototype.find.call(items, (product) => product.id === Number(item)); // doesn't work
             totalAmount += cartItems[item] * itemInfo.price;
           }
         }
